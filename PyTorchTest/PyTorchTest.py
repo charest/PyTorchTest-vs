@@ -2,9 +2,9 @@
 import torch
 # import torch.nn as nn
 
-import faulthandler
-import signal
-faulthandler.register(signal.SIGUSR1.value)
+# import faulthandler
+# import signal
+# faulthandler.register(signal.SIGUSR1.value)
 
 
 
